@@ -1,0 +1,14 @@
+{
+    "name": "tresa/medline-xml",
+    "description": "create valid medline xml see url : https://www.nlm.nih.gov/bsd/licensee/data_elements_doc.html",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "tresa02",
+            "email": "claymore0465@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
